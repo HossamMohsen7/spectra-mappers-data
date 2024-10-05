@@ -1,0 +1,13 @@
+geopandas
+landsatxplore
+rasterio
+pandas
+matplotlib
+numpy
+seaborn
+fastapi
+uvicorn
+pydantic
+tarfile
+pillow
+seaborn
